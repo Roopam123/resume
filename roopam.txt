@@ -1,0 +1,38 @@
+
+======================================================================
+                         MY RESUME                                    
+======================================================================
+Roopam Rahangdale"<<endl;
+roopamrahangdale241@gmail.com
+24-11-2000
+Add:- janamkhari,Distt-Seoni(M.P.)
+Contt. No.:- +918226046346
+
+----------------------------------------------------------------------
+CAREER OBJECTIVE
+----------------------------------------------------------------------
+Looking for a software engineering position with lead co. where my
+knowledge of coding  and system maintenance will be beneficial to 
+the company.
+
+
+----------------------------------------------------------------------
+EDUCATION
+----------------------------------------------------------------------
+Sl. no.  Qualifications  Institute                        Score  Year
+     1.      10th        H.S. School Dharna Kalan,Seoni   83    2016
+     2.      12th        H.S. School Dharna Kalan,Seoni   81    2018
+
+
+----------------------------------------------------------------------
+SKILLS
+----------------------------------------------------------------------
+Programming languages:- C,Cpp, HTML, CSS
+Tools:- MS Office, MS Excel, 
+
+
+SOCIAL PROFILES
+----------------------------------------------------------------------
+Github- github.com/Roopam123
+Linkedin - in.linkedin.com
+Facebook - Facebook.com
